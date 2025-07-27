@@ -1,0 +1,57 @@
+{
+  "version": "3.89.32618.0",
+  "course_id": "6HIi21g59sm",
+  "title": "15 Product and Sum Practice",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Product and Sum Practice"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6TV6sV3f5Tk",
+      "title": "Question 1",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "5XRCwhGjONw",
+      "title": "Question 2",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "60mLwcDfqFR",
+      "title": "Question 3",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "5YLWcVbjLkz",
+      "title": "Question 4",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "5oZMn1LLaBC",
+      "title": "Question 5",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "5Z7cvjwd23o",
+      "title": "Question 6",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "5twmvvfjoKo",
+      "title": "Results",
+      "scene_index": "1.7"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1540,
+    "height": 838
+  },
+  "stage": {
+    "width": 1280,
+    "height": 720
+  }
+}
